@@ -7,6 +7,8 @@ the process of diagnosis of patients with color vision deficiency
 5. The development process for the project followed the Agile methodology
 6. Model deployment under progress
 <br>
+
+NOTE: in pix2pix-gan.ipynb: Unable to hide 'training' output despite enabling scrolling, so the length of the notebook increased<br>
 make repo public to acces the images..change the link
 ### RECOLOURIZATION:<br>
 ![recolor](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/expression.png?token=GHSAT0AAAAAACA7PQLVPNFHF3COOUH3EPQIZEJWEAA)
