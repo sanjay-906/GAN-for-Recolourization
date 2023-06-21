@@ -4,7 +4,11 @@ the process of diagnosis of patients with color vision deficiency
 2. The dataset utilized for training the model was custom-created by merging multiple existing datasets
 3. The generated images exhibited an error rate of less than 0.05 when compared to the actual simulated images
 4. The development process for the project followed the Agile methodology
-5. Model deployment under progress
+5. Model deployment using Streamlit Cloud<br>
+NOTE: if the app is not used for a long time, it goes to sleep. If you wake it up, it will take utmost 5 mins to see the app
+
+<br>
+OUTPUT: <a href="https://sanjay906-gan-recolourization-mebu9asdk0q.streamlit.app/" target="_blank">recolor-web-app</a>
 <br>
 
 NOTE: in pix2pix-gan.ipynb: Unable to hide 'training' output despite enabling scrolling, so the length of the notebook increased<br>
