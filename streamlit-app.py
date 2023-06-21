@@ -70,7 +70,7 @@ f2="https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pi
 im2= Image.open(requests.get(f2, stream=True).raw)
 st.image(im2)
 
-st.markdown('Original Images and Images generated using daltonization are feed to our Pix2Pix GAN which uses Image translation to learn and to generate recoloured images without the algorithm')
+st.markdown('Original Images and Images generated using daltonization are fed to our Pix2Pix GAN which uses Image translation to learn and to generate recoloured images without the algorithm')
 
 st.subheader('Upload any image')
 file = st.file_uploader("Choose a file",type = ['jpg', 'png','jpeg'],accept_multiple_files = False)
