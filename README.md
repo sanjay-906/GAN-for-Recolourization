@@ -3,29 +3,28 @@
 the process of diagnosis of patients with color vision deficiency
 2. The dataset utilized for training the model was custom-created by merging multiple existing datasets
 3. The generated images exhibited an error rate of less than 0.05 when compared to the actual simulated images
-4. The GAN model was subsequently enhanced to support the recoloring of videos
-5. The development process for the project followed the Agile methodology
-6. Model deployment under progress
+4. The development process for the project followed the Agile methodology
+5. Model deployment under progress
 <br>
 
 NOTE: in pix2pix-gan.ipynb: Unable to hide 'training' output despite enabling scrolling, so the length of the notebook increased<br>
 make repo public to acces the images..change the link
 ### RECOLOURIZATION:<br>
-![recolor](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/expression.png?token=GHSAT0AAAAAACA7PQLVPNFHF3COOUH3EPQIZEJWEAA)
+![recolor](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/expression.png)
 
 <br>
 
 ### Pix2Pix Architecture:<br>
-![arch](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/Arch.png?token=GHSAT0AAAAAACA7PQLVYQKSGAR4NWSDYAEIZEJWDFQ)
+![arch](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/Arch.png)
 
 <br>
 
 ### TESTING:<br>
-![testing](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/testing.png?token=GHSAT0AAAAAACA7PQLUDE2DJGW7WMJKLOXYZEJWEYA)
+![testing](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/testing.png)
 
 <br>
 
 ### OUTPUT:<br>
 
-![output](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/output1.png?token=GHSAT0AAAAAACA7PQLU36YMKNEH62J5RXAAZEJWGCQ)
+![output](https://raw.githubusercontent.com/sanjay-906/GAN-for-Recolourization/main/pictures/output1.png)
 
