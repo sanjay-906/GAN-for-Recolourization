@@ -44,6 +44,19 @@ Initially, the generated images are noisy, but as the training goes on, they bec
 <br>
 <br>
 
+### VIDEO RECOLOURIZATION:<br>
+
+
+
+https://github.com/sanjay-906/GAN-for-Recolourization/assets/99668976/91b0b7fc-096f-44dc-ad4c-fd93d5d33c4e
+
+<br>
+
+
+https://github.com/sanjay-906/GAN-for-Recolourization/assets/99668976/6774d3a0-6d9b-4569-b855-2865edf57c09
+
+
+
 ### NOTE:<br>
 1. Provided higher computation power, the model can be configured to produce high quality recoloured images.
 2. The model in the current state can also recolour videos, but the output has 1:1 aspect ratio (also, the process itself is too slow)
