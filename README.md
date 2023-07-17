@@ -55,6 +55,15 @@ https://github.com/sanjay-906/GAN-for-Recolourization/assets/99668976/91b0b7fc-0
 
 https://github.com/sanjay-906/GAN-for-Recolourization/assets/99668976/6774d3a0-6d9b-4569-b855-2865edf57c09
 
+### WEB-APP DEMO:<br>
+Full high quality video is in pictures folder
+
+<br>
+
+
+
+https://github.com/sanjay-906/GAN-for-Recolourization/assets/99668976/31467d91-e5c5-4977-a054-288e26a104c6
+
 
 
 ### NOTE:<br>
